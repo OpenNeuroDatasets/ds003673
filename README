@@ -8,7 +8,7 @@ Imaging data were acquired using a Siemens 3.0T MAGNETOM Prisma MRI scanner at t
 
 T1-weighted 3D anatomical images were acquired using a magnetization prepared rapid gradient echo (MPRAGE) pulse sequence with the following parameters: repetition time (TR) = 2,400 ms, echo time (TE) = 1.22 ms, flip angle = 8°, slice thickness = 1 mm, in-plane resolution = 1 × 1 mm, 208 contiguous slices acquired in the sagittal plane). 
 
-Functional T2*-weighted blood oxygen level-dependent (BOLD) images were acquired using a multiband gradient echo-planar imaging (EPI) pulse sequence using the following parameters: TR = 1000 ms, TE = 30 ms, flip angle = 55°, multiband acceleration factor = 5, slice thickness = 2 mm, in-plane resolution = 2 × 2 mm2, 75 contiguous slices acquired in the axial-oblique planes parallel to AC-PC line. Total duration of each functional run was 6:50 min (410 frames). 
+Functional T2*-weighted blood oxygen level-dependent (BOLD) images were acquired using a multiband gradient echo-planar imaging (EPI) pulse sequence using the following parameters: TR = 1000 ms, TE = 30 ms, flip angle = 55°, multiband acceleration factor = 5, slice thickness = 2 mm, in-plane resolution = 2 × 2 mm2, 75 contiguous slices acquired in the axial-oblique planes parallel to AC-PC line. Total duration of each functional run was 6:50 min (410 frames). We recommend to discard the first 10 s volumes in each resting state run to exclude frames when eye-tracking system was initialized and stabilized. 
 
 2. Pupillometry data
 
