@@ -16,7 +16,6 @@
 	"MRAcquisitionType": "2D",
 	"SeriesDescription": "MB_bold_2mm_1TR_Resting_State_410",
 	"ProtocolName": "MB_bold_2mm_1TR_Resting_State_410",
-    "TaskName": "Rest",
 	"ScanningSequence": "EP",
 	"SequenceVariant": "SK_SS",
 	"ScanOptions": "FS_EXT",
