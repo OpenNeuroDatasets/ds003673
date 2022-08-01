@@ -4,7 +4,7 @@ Data acquisition:
 
 Imaging data were acquired using a Siemens 3.0T MAGNETOM Prisma MRI scanner at the Yale Magnetic Resonance Research Center. Data consists of one anatomical image and two resting state fMRI data with simultaneous in-scanner pupillometry data acquired from each subject.
 
-1. Imaging data - Raw
+1. Imaging data - raw
 
 T1-weighted 3D anatomical images were acquired using a magnetization prepared rapid gradient echo (MPRAGE) pulse sequence with the following parameters: repetition time (TR) = 2,400 ms, echo time (TE) = 1.22 ms, flip angle = 8°, slice thickness = 1 mm, in-plane resolution = 1 × 1 mm, 208 contiguous slices acquired in the sagittal plane). 
 
